@@ -23,8 +23,8 @@ p {
 .attribution a { color: hsl(228, 45%, 44%); }
 
 .card-size {
-    width: 370px; 
-    height: 550px !important;
+    max-width: 384px; 
+    max-height: 522px !important;
     border-radius: 20px !important;
     box-shadow: 10px 10px black;
     
@@ -44,6 +44,7 @@ p {
     font-weight: 800;
     font-style: normal;
     color: var(--gray950);
+    font-size: 24px;
   
 }
 
