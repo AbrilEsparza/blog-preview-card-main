@@ -9,7 +9,7 @@ body {
     height: 100vh;
     background-color: var(--yellow) !important; 
     align-content: center;
-    justify-items: center;
+    justify-content: center;
     
 }
 
